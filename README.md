@@ -16,3 +16,7 @@
 #committed the changes to the master branch using 'git commit -m "comment"'
 #pushed my changes to the github repository using 'git push'
 
+#Started documenting my steps
+#used 'git add .' to add the changes to the master branch
+#used 'git commit -m "comment"' to commit my changes
+#used 'git push' to push them to my repository
