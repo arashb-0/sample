@@ -20,3 +20,12 @@
 #used 'git add .' to add the changes to the master branch
 #used 'git commit -m "comment"' to commit my changes
 #used 'git push' to push them to my repository
+
+#learning about branches
+#used 'git checkout -b new-branch' to create a new branch named new-branch
+#created branch.txt
+#did git add and git commit
+#did 'git push origin new-branch' to push the new branch up to github
+#created a pull request for the new branch
+#clicked 'merge pull request' to merge it into the master branch
+#went back to the terminal and did 'git pull origin master' to sync up my local working directory and the github repository  
