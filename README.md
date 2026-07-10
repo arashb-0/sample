@@ -29,3 +29,6 @@
 #created a pull request for the new branch
 #clicked 'merge pull request' to merge it into the master branch
 #went back to the terminal and did 'git pull origin master' to sync up my local working directory and the github repository  
+#also did 'git checkout master' to go to the master branch
+#did 'git merge new-branch' to merge everything from new-branch into the master branch
+#if i want to delete new-branch i can do: 'git branch -d new-branch' (deletes locally) or 'git push origin --delete new-branch' (deletes on github)
